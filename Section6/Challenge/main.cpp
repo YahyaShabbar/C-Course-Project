@@ -25,7 +25,7 @@ int main() {
     
     cout << "Total amount: $" << ((priceSmall * sRooms) + (priceLarge * lRooms)) + ((priceSmall * sRooms) + (priceLarge * lRooms)) * salesTax << endl;
     
-
+    cout << "Pricing lasts for 30 days.";
     
 
     
